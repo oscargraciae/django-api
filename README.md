@@ -1,4 +1,2 @@
-Comparte Ride
+Django API Test
 =============
-
-Group-bounded, invite-only, carpooling platform
